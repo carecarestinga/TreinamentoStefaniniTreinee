@@ -19,6 +19,7 @@ public final class Principal {
 	}
 	
 	public Principal() {
+		
 		try {
 			
 			RepositorioDeArquivosDat repositorio = new RepositorioDeArquivosDat(Constantes.LOCAL_LEITURA);
